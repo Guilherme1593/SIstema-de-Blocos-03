@@ -200,7 +200,7 @@ public class BlocoFileManager
 public class Program
 {
     static GestorBlocos gestor = new GestorBlocos();
-    static BlocoFileManager blocoFileManager = new BlocoFileManager("C:\\Users\\guisa\\Desktop\\Blocos\\Blocoscadastrado.txt");
+    static BlocoFileManager blocoFileManager = new BlocoFileManager("..\\..\\..\\Blocoscadastrado.txt");
 
     public Program()
     {
